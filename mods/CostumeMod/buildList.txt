@@ -1,0 +1,4 @@
+american, exe, 0x80090C00, 0x0, src/modcostumes.c
+american, exe, 0x8004b89c, 0x0, src/modelHook.s
+american, exe, 0x8004b8ac, 0x0, src/modelHookB.s
+american, front, 0x801d82cc, 0x0, src/menuHook.s
