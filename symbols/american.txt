@@ -1,0 +1,21 @@
+NoCostume = 0x801d8474;      
+ThirdCostume = 0x801d833c;   
+CostumeContinue = 0x801d82ec;
+Outfit_Player = 0x801e646c; 
+ChosenChar = 0x801fa680;
+
+GamepadNo = 0x801ffefc;     
+GamepadKey = 0x801fbd48;
+
+LoopbackF = 0x8004b8c0;
+FUN_8004b8d0 = 0x8004b8d0;
+
+DAT_8009eb0c = 0x8009eb0c;
+DAT_800d4518 = 0x800d4518;
+DAT_8009f3e8 = 0x8009f3e8; 
+DAT_8009f3e0 = 0x8009f3e0;
+
+LoadModelNo = 0x8004b4ec;
+MDLLPlayerNo = 0x800d4538;
+MDLLCharNo = 0x800a1d52;
+MDLLCostNo = 0x800d4548;
